@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20World&fontSize=90" />
 
 
-<h1>Hi there 👋</h1> 
+<h1>Hello World!👋</h1> 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
