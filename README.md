@@ -5,6 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 PROGRAMMING LANGUAGE : 
+C
+Python
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
