@@ -2,7 +2,7 @@
 
 <h1>Welcome to RYXXNG World!👋</h1> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+the+ll;Second+line+of+text)](https://git.io/typing-svg)
 
 ![ryxxng's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeYeRyeong&show_icons=true&theme=radical)
 
