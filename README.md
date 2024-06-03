@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
-![ryxxng's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+![ryxxng's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryxxng&show_icons=true&theme=radical)
 
 PROGRAMMING LANGUAGE : 
 C
