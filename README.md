@@ -2,10 +2,13 @@
 
 <h1>Welcome to RYXXNG World!👋</h1> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+the+ll;Second+line+of+text)](https://git.io/typing-svg)
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+the+ll;Second+line+of+text)](https://git.io/typing-svg)
 
-![ryxxng's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeYeRyeong&show_icons=true&theme=radical)
+  ![ryxxng's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeYeRyeong&show_icons=true&theme=radical)
 
+</div>
 PROGRAMMING LANGUAGE : 
 C
 Python
