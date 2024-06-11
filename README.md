@@ -8,7 +8,7 @@
 
   ![ryxxng's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeYeRyeong&show_icons=true&theme=radical)
 
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={soccer0954})](https://solved.ac/{handle})
 
 </div>
 PROGRAMMING LANGUAGE : 
