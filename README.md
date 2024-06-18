@@ -1,8 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World&fontSize=90" />
 
-<h1>Welcome to RYXXNG World!👋</h1> 
+
 
 <div align="center">
+  <h1>Welcome to RYXXNG World!👋</h1> 
   
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+the+ll;Second+line+of+text)](https://git.io/typing-svg)
 
