@@ -20,6 +20,14 @@
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
+  <h3 align="center"><b>💌 Social 💌 </b></h3>
+  </br>
+  <p align="center">
+    <a href="mailto:i876838@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:i876838@gmail.com"/></a>
+    <a href="https://www.instagram.com/l0322l_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/l0322l_"/></a>
+    <!--<a href="https://velog.io/@youhyeoneee"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@youhyeoneee"/></a>-->
+</p>
+
 
 
 </div>
