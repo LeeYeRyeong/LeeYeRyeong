@@ -10,7 +10,7 @@
   ![ryxxng's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeYeRyeong&show_icons=true&theme=radical)
 
   [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=soccer0954)](https://solved.ac/soccer0954)
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=soccer0954&theme=dark)
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=soccer0954&theme=random-kinij)
   
   <h3>My Tech Stacks</h3> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
