@@ -27,7 +27,7 @@
 
 <h3 align="center"><b>My Info </b></h3>
 
-
+<p> 학교
 
 </div>
 
