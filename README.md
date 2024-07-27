@@ -28,6 +28,7 @@
 <h3 align="center"><b>My Info </b></h3>
 
 <p> school : sungshin women university </p>
+<p> age : sungshin women university </p>
 
 </div>
 
