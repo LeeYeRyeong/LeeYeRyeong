@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=spring&logoColor=green"/>
 
   <h3 align="center"><b>💌 Social 💌 </b></h3>
   <a href="mailto:i876838@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> </a>
