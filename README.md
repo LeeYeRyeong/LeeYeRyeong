@@ -5,7 +5,7 @@
 <div align="center">
   <h1>Welcome to RYXXNG World!!👋</h1> 
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+the+ryxxng+world;This+is+my+place+hometown)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+the+ryxxng+git+world;This+place+is+hometown)](https://git.io/typing-svg)
 
   ![ryxxng's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeYeRyeong&show_icons=true&theme=radical)
 
