@@ -31,7 +31,6 @@
 <p> university : sungshin women university </p>
 <p> birth : 2003.03.22  </p>
 <p> major : computer engineering </p>
-<p> project </p>
 </div>
 
 <!--
