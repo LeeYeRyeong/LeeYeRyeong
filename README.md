@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-  <h3 align="center"><b>💌 Social 💌 </b></h3>
+  <h3 align="center"><b>💌My Social 💌 </b></h3>
   <a href="mailto:i876838@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> </a>
   <a href="https://www.instagram.com/l0322l_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/l0322l_"/></a>
 
