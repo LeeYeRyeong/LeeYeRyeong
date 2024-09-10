@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <h1>Welcome to RYXXNG World!!👋</h1> 
+  <h1> 👐 Welcome to RYXXNG World! 👐 </h1> 
   
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+the+ryxxng+git+world;This+place+is+hometown)](https://git.io/typing-svg)
 
