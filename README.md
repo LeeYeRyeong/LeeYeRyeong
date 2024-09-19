@@ -36,6 +36,7 @@
 <p> birth : 2003.03.22  </p>
 <p> major : 💻 computer engineering 💻</p>
 <p> double major : AI </p>
+<p> 0000 </p>
 </div>
 
 <!--
