@@ -8,7 +8,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+the+ryxxng+git+world;This+place+is+hometown;My+favorite)](https://git.io/typing-svg)
 
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/{username}"/>
+    <img src="https://render.gitanimals.org/farms/{LeeYeRyeong}"/>
   </a>
 
   ![ryxxng's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeYeRyeong&show_icons=true&theme=radical)
