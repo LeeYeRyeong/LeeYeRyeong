@@ -6,7 +6,7 @@
 <div align="center">
   <h1>  Welcome to 🐑RYXXNG🐑 World!  </h1> 
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+the+ryxxng+git+world;This+place+is+hometown;My+favorite)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+the+ryxxng+git+world;This+place+is+hometown;My+favorite+hh)](https://git.io/typing-svg)
 
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/{LeeYeRyeong}"/>
@@ -39,7 +39,7 @@
 
 <h3 align="center"><b>🐏 My Info 🐏</b></h3>
 
-<p> university : 🔮 sungshin women university 🔮</p>
+<p color="purple"> university : 🔮 sungshin women university 🔮</p>
 <p> birth : 2003.03.22  </p>
 <p> major : 💻 computer engineering 💻</p>
 <p> double major : AI </p>
