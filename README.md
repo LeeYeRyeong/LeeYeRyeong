@@ -6,7 +6,7 @@
 <div align="center">
   <h1>  Welcome to 🐑RYXXNG🐑 World!  </h1> 
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+the+ryxxng+git+world;This+git+place+is+hometown;My+favorite+hh)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+the+ryxxng+git+world;Welcome+to+the+ryxxng+git+world;My+favorite+hh)](https://git.io/typing-svg)
 
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/{LeeYeRyeong}"/>
