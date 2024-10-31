@@ -45,6 +45,7 @@
 <p> major : 💻 computer engineering 💻</p>
 <p> double major : AI </p>
 <p> country : 🇰🇷 Korea 🇰🇷</p>
+<p> country : 🇰🇷 Korea 🇰🇷</p>
 </div>
 
 <!--
