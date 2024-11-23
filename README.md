@@ -6,9 +6,10 @@
 <div align="center">
   <h1>  Welcome to 🐑RYXXNG🐑 World!  </h1> 
 
-  <h3 align="center"><b> My Git Info </b></h3>
   
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+the+ryxxng+git+world;Welcome+to+the+ryxxng+git+world;Welcome+to+the+ryxxng+git+world)](https://git.io/typing-svg)
+
+ <h3 align="center"><b> My Git Info </b></h3>
 
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/{LeeYeRyeong}"/>
