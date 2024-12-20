@@ -46,11 +46,11 @@
 
 <h3 align="center"><b>🐏 My Info 🐏</b></h3>
 
-## university : 🔮 sungshin women university 🔮
-## birth : 2003.03.22  
-## major : 💻 computer engineering 💻
-## double major : AI 
-## country : 🇰🇷 Korea 🇰🇷
+university : 🔮 sungshin women university 🔮
+birth : 2003.03.22  
+major : 💻 computer engineering 💻
+double major : AI 
+country : 🇰🇷 Korea 🇰🇷
 </div>
 
 <!--
