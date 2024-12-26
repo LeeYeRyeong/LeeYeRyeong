@@ -51,7 +51,7 @@ birth : 2003.03.22
 major : 💻 computer engineering 💻
 double major : AI 
 country : 🇰🇷 Korea 🇰🇷
-job
+job : student
 </div>
 
 <!--
