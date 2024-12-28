@@ -46,7 +46,7 @@
 
 <h3 align="center"><b>🐏 My Info 🐏</b></h3>
 
-university : 🔮 sungshin women university 🔮
+<p> university : 🔮 sungshin women university 🔮 </p>
 birth : 2003.03.22  
 major : 💻 computer engineering 💻
 double major : AI 
