@@ -47,7 +47,7 @@
 <h3 align="center"><b>🐏 My Info 🐏</b></h3>
 
 <p> university : 🔮 sungshin women university 🔮 </p>
-birth : 2003.03.22  
+<p> birth : 2003.03.22  </p>
 major : 💻 computer engineering 💻
 double major : AI 
 country : 🇰🇷 Korea 🇰🇷
