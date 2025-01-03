@@ -49,7 +49,7 @@
 <p> university : 🔮 sungshin women university 🔮 </p>
 <p> birth : 2003.03.22  </p>
 <p> major : 💻 computer engineering 💻 </p>
-double major : AI 
+<p> double major : AI </p>
 country : 🇰🇷 Korea 🇰🇷
 job : student
 </div>
