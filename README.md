@@ -66,6 +66,8 @@
 <p> country : 🇰🇷 Korea 🇰🇷 </p>
 <p> job : student </p>
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World&fontSize=90" />
+
 
 <!--
 **LeeYeRyeong/LeeYeRyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
