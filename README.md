@@ -63,7 +63,7 @@
 <p> major : 💻 computer engineering 💻 </p>
 <p> double major : AI </p>
 <p> country : 🇰🇷 Korea 🇰🇷 </p>
-<p> job : student </p>
+<p> job :👩‍🎓 student 👩‍🎓 </p>
 <p>
 </div>
 
