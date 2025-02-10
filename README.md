@@ -64,6 +64,7 @@
 <p> double major : 💻 AI 💻 </p>
 <p> country : 🇰🇷 Korea 🇰🇷 </p>
 <p> job : 👩‍🎓 student 👩‍🎓 </p>
+
 </div>
 
 <footer>
