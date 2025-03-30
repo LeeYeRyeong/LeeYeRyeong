@@ -57,10 +57,14 @@
   <a href="https://www.instagram.com/l0322l_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/l0322l_"/></a>
 
 
+<h3 align="center"><b>🐏 My License 🐏</b></h3>
+
+<p> university : 🔮 sungshin women university 🔮 </p>
+
 <h3 align="center"><b>🐏 My Info 🐏</b></h3>
 
 <p> university : 🔮 sungshin women university 🔮 </p>
-<p> birth : 2003.03.22  </p>
+<p> birth : 🎂 2003.03.22 🎂  </p>
 <p> major : 💻 computer engineering 💻 </p>
 <p> double major : ⌨️ AI ⌨️ </p>
 <p> country : 🇰🇷 Korea 🇰🇷 </p>
