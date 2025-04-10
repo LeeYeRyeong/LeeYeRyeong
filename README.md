@@ -56,7 +56,7 @@
   <a href="mailto:i876838@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> </a>
 
 
-<h3 align="center"><b>🐏 My License 🐏</b></h3>
+<h3 align="center"><b>📚 My License 📚</b></h3>
 
 <p> </p>
 
