@@ -7,7 +7,7 @@
  <div align="center">
 
   <h1>  Welcome to <br>🐑 RYXXNG 🐑 World!  </h1> 
- <><><><><><><><><
+ <><><><><><><><><>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+the+ryxxng+git+world;Welcome+to+the+ryxxng+git+world;Welcome+to+the+ryxxng+git+world)](https://git.io/typing-svg)
 
