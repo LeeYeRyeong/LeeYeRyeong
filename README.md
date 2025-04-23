@@ -59,7 +59,7 @@
 
 <h3 align="center"><b>📚 My License 📚</b></h3>
 
-<p> </p>
+<p> jj</p>
 
 <p> university : 🔮 sungshin women university 🔮 </p>
 
