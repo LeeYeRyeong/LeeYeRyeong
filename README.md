@@ -10,7 +10,7 @@
 
 ዷጐ
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+the+ryxxng+git+world;Welcome+to+the+ryxxng+git+world;Welcome+to+the+ryxxng+git+world)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+the+ryxxng+git+world;ጐ+Welcome+to+the+ryxxng+git+world+ጐ;Welcome+to+the+ryxxng+git+world)](https://git.io/typing-svg)
 
  <h3 align="center"><b> 👩‍💻 My Git Info 👩‍💻</b></h3>
 
