@@ -6,7 +6,7 @@
  <body>
  <div align="center">
 
-  <h1>  Welcome to <br>🐑 RYXXNG 🐑 World!  </h1> 
+  <h1>  Welcome to <br>🦔🐑 RYXXNG 🐑 🦔World!  </h1> 
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ጐWelcome+to+the+ryxxng+git+worldጐ;ጐWelcome+the+ryxxng+git+worldጐ;Welcome+to+the+ryxxng+git+world)](https://git.io/typing-svg)
 
