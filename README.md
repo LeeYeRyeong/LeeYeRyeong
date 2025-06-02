@@ -10,7 +10,7 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ጐWelcome+to+the+ryxxng+git+worldጐ;ጐWelcome+the+ryxxng+git+worldጐ;Welcome+to+the+ryxxng+git+world)](https://git.io/typing-svg)
 
-<p>a <p>
+<p>
 
  <h3 align="center"><b> 👩‍💻 My Git Info 👩‍💻</b></h3>
 
