@@ -70,6 +70,7 @@
 <p> double major : ⌨️ AI ⌨️ </p>
 <p> country : 🇰🇷 Korea 🇰🇷 </p>
 <p> job : 👩‍🎓 student 👩‍🎓 </p>
+<p> dkkllla kdkdk </p>
 
 </div>
 
