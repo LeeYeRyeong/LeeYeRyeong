@@ -52,7 +52,7 @@
   
   <br><br>
 
-<h3> My Language Info </h3>
+<h3>🎫 My Language Info 🎫</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeYeRyeong)](https://github.com/anuraghazra/github-readme-stats)
 
