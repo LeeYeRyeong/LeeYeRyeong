@@ -7,7 +7,8 @@
  <div align="center">
 
   <h1>  Welcome to <br>🐑 RYXXNG 🐑<br>World!  </h1> 
-<h3>🐶🦝🐦🦌🐑</h3>
+
+<h3> 🐶 🦝 🐦 🦌 🐑 </h3>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ጐ+Welcome+to+the+ryxxng+git+world+ጐ+!;ጐ+Welcome+the+ryxxng+git+world+ጐ+!;ጐ+Welcome+to+the+ryxxng+git+world+ጐ+!)](https://git.io/typing-svg)
 
