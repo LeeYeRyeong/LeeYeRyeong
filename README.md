@@ -77,6 +77,10 @@
 <footer>
 <!-- footer 설정-->
 
+<h6> 🤍 🧡 💛 💙 💜 </h6>
+<h3> 🐶 🦝 🐑 🐦 🦌 </h3>
+<h6> 🤍 🧡 💛 💙 💜 </h6>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer" />
 
 </footer>
