@@ -60,7 +60,7 @@
 <br>
 
 <h3 align="center"><b>📚 My License 📚</b></h3>
-<p> university : 2025.07.05 </p>
+<p> 정처기</p>
 <br>
 <h3 align="center"><b>🐏 My Info 🐏</b></h3>
 
