@@ -11,7 +11,7 @@
 <h6> 🤍 🧡 💛 💙 💜 </h6>
 <h3> 🐶 🦝 🐑 🐦 🦌 </h3>
 <h6> 🤍 🧡 💛 💙 💜 </h6>
-<h1>
+
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ጐ+Welcome+to+the+ryxxng+git+world+ጐ+!;ጐ+Welcome+the+ryxxng+git+world+ጐ+!;ጐ+Welcome+to+the+ryxxng+git+world+ጐ+!)](https://git.io/typing-svg)
 
@@ -61,7 +61,8 @@
 <br>
 
 <h3 align="center"><b>📚 My License 📚</b></h3>
-<p> 정처기</p>
+
+
 <br>
 <h3 align="center"><b>🐏 My Info 🐏</b></h3>
 
