@@ -9,7 +9,7 @@
   <h1>  Welcome to <br>🐑 RYXXNG 🐑<br>World!  </h1> 
 
 <h6> 🤍 🧡 💛 💙 💜 </h6>
-<h3> 🐶 🦝 🐑 🐦 🦌 </h3>
+<h3>💚 🐶 🦝 🐑 🐦 🦌 💚 </h3>
 <h6> 🤍 🧡 💛 💙 💜 </h6>
 
 
