@@ -20,6 +20,9 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ጐ+Welcome+to+the+ryxxng+git+world+ጐ+!;ጐ+Welcome+the+ryxxng+git+world+ጐ+!;ጐ+Welcome+to+the+ryxxng+git+world+ጐ+!)](https://git.io/typing-svg)
 
 
+---
+
+
  <h3 align="center"><b> 👩‍💻 My Git Info 👩‍💻</b></h3>
 
   <a href="https://github.com/devxb/gitanimals">
