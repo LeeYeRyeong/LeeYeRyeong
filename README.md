@@ -13,7 +13,7 @@
 <h6><div align="left">|</div> 🤍 🧡 💛 💙 💜 <div align="right">|</div></h6>
 <h6><div align="left">|</div> 🐶 🦝 🐑 🐦 🦌 <div align="right">|</div></h6>
 <h6><div align="left">|</div> 🤍 🧡 💛 💙 💜 <div align="right">|</div></h6>
-
+<p> ponzoo </p>
 ---
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ጐ+Welcome+to+the+ryxxng+git+world+ጐ+!;ጐ+Welcome+the+ryxxng+git+world+ጐ+!;ጐ+Welcome+to+the+ryxxng+git+world+ጐ+!)](https://git.io/typing-svg)
