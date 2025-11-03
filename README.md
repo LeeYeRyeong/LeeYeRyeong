@@ -1,6 +1,6 @@
 <header>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%10RYXXNG%10World&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20RYXXNG%20World&fontSize=70" />
 
  </header>
  <body>
