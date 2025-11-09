@@ -88,6 +88,7 @@ _
 <p> birth : 🎂 2003.03.22 🎂  </p>
 <p> major : 💻 computer engineering 💻 </p>
 <p> double major : 🤖 AI 🤖 </p>
+<p> </p>
 
 <br>
 
@@ -95,6 +96,7 @@ _
 </div>
 
  </body>
+
 <footer>
 <!-- footer 설정-->
 
