@@ -72,6 +72,10 @@
 <a href="mailto:soccer0954@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> </a>
 <br>
 
+<h3 align="center"><b>🪪My License 🪪</b></h3>
+
+
+
 
 [![Hits](https://github.com/LeeYeRyeong/LeeYeRyeong/api/count/incr/badge.svg?url=https%3A%2F%2Fblog.false.kr%2Fgithub%2FGitHub-Profile-Setting%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/LeeYeRyeong/LeeYeRyeong)
 
