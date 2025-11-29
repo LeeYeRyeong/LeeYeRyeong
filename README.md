@@ -89,7 +89,7 @@
 <p> birth : 🎂 2003.03.22 🎂  </p>
 <p> major : 💻 computer engineering 💻 </p>
 <p> double major : 🤖 AI 🤖 </p>
-<p> city : seoul </p>
+<p> country : KOREA </p>
 
 <br>
 
