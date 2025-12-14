@@ -12,9 +12,9 @@
 
 ---
 
-<h6><div align="left">|</div> 🤍 🧡 💛 💙 💜 <div align="right">|</div></h6>
+<h6><div align="left">|</div> 🤍-🧡-💛-💙-💜 <div align="right">|</div></h6>
 <h6><div align="left">|</div> 🐶 🦝 🐑 🐦 🦌 <div align="right">|</div></h6>
-<h6><div align="left">|</div> 🤍 🧡 💛 💙 💜 <div align="right">|</div></h6>
+<h6><div align="left">|</div> 🤍-🧡-💛-💙-💜 <div align="right">|</div></h6>
 
 ---
 
