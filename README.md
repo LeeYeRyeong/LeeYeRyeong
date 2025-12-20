@@ -83,6 +83,7 @@
 <h3 align="center"><b>📇 My License 📇</b></h3>
 <p> 정보처리기사 </p>
 <p> aws cloud </p>
+<p> sqld </p>
 
 <br>
 <h3 align="center"><b>🐑 My Info 🐑</b></h3>
