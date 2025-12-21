@@ -44,6 +44,8 @@
 
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=soccer0954&theme=cold)
 
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FLeeYeRyeong?color=yellow&label=hits&size=small)](https://myhits.vercel.app)
+
   
 <br><br>
 
@@ -76,7 +78,6 @@
 
 
 
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FLeeYeRyeong?color=yellow&label=hits&size=small)](https://myhits.vercel.app)
 
 
 <h3 align="center"><b>📇 My License 📇</b></h3>
