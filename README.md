@@ -76,10 +76,7 @@
 
 
 
-
-[![Hits](https://github.com/LeeYeRyeong/LeeYeRyeong/api/count/incr/badge.svg?url=https%3A%2F%2Fblog.false.kr%2Fgithub%2FGitHub-Profile-Setting%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/LeeYeRyeong/LeeYeRyeong)
-
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fdeku.posstree.com?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FLeeYeRyeong?color=yellow&label=hits&size=small)](https://myhits.vercel.app)
 
 
 <h3 align="center"><b>📇 My License 📇</b></h3>
