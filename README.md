@@ -78,7 +78,7 @@
 
 <h3 align="center"><b> 📔 My Log 📔 </b></h3>
 
-<p> history hits </p>
+<p> tistory hits </p>
 
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fryeong-322.tistory.com?color=yellow&label=hits&size=small)](https://myhits.vercel.app)
 
