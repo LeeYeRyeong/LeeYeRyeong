@@ -37,6 +37,8 @@
 
   ![ryxxng's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeYeRyeong&show_icons=true&theme=radical)
 
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FLeeYeRyeong?color=yellow&label=hits&size=small)](https://myhits.vercel.app)
+
 <h3 align="center"><b>📜 My BaekJoon 📜</b></h3>
 <h3>
 
@@ -44,7 +46,7 @@
 
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=soccer0954&theme=cold)
 
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FLeeYeRyeong?color=yellow&label=hits&size=small)](https://myhits.vercel.app)
+
 
   
 <br><br>
