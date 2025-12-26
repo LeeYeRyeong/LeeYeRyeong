@@ -37,6 +37,8 @@
 
   ![ryxxng's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeYeRyeong&show_icons=true&theme=radical)
 
+<p> my github hits </p>
+
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FLeeYeRyeong?color=yellow&label=hits&size=small)](https://myhits.vercel.app)
 
 <h3 align="center"><b>📜 My BaekJoon 📜</b></h3>
