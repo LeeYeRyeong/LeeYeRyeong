@@ -21,7 +21,6 @@
 <h6> 🐑 </h6>
 <h6> 🐑&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🐑<br>🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫 </h6>
 
----
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ጐ+Welcome+to+the+ryxxng+git+world+ጐ+!;ጐ+Welcome+the+ryxxng+git+world+ጐ+!;ጐ+Welcome+to+the+ryxxng+git+world+ጐ+!)](https://git.io/typing-svg)
 
