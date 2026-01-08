@@ -94,6 +94,7 @@
 
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fryeong-322.tistory.com?color=yellow&label=hits&size=small)](https://myhits.vercel.app)
 
+<br><br>
 
 <h3 align="center"><b>📇 My License 📇</b></h3>
 <p> 정보처리기사 </p>
