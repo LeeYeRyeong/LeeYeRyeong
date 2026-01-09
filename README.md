@@ -101,7 +101,8 @@
 <p> aws cloud </p>
 <p> sqld </p>
 
-<br>
+<br><br>
+
 <h3 align="center"><b>🐑 My Info 🐑</b></h3>
 
 <p> university : 🔮 sungshin women university 🔮 </p>
