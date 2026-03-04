@@ -100,6 +100,7 @@
 <p> Engineer Information Processing </p>
 <p> aws cloud </p>
 <p> sqld </p>
+<p> computer </p>
 
 <br><br>
 
