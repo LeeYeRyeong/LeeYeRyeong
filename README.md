@@ -23,7 +23,7 @@
 <h6> ☆ </h6>
 
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ጐ+Welcome+to+the+ryxxng+git+world+ጐ+!;ጐ+Welcome+the+ryxxng+git+world+ጐ+!;ጐ+Welcome+to+the+ryxxng+git+world+ጐ+!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+the+ryxxng+git+world++!;Welcome+the+ryxxng+git+world+!;Welcome+to+the+ryxxng+git+world+!)](https://git.io/typing-svg)
 
 <h6> ☆ </h6>
 
