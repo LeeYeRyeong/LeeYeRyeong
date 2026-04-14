@@ -21,12 +21,12 @@
 <h6> 🐑 </h6>
 <h6>🌳 🐑&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🐑 🌳<br>🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫 </h6>
 
-<h3> ☆ </h3>
+<h1> ☆ </h1>
 
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+the+ryxxng+git+world++!;Welcome+the+ryxxng+git+world+!;Welcome+to+the+ryxxng+git+world+!)](https://git.io/typing-svg)
 
-<h3> ☆ </h3>
+<h1> ☆ </h1>
 
 
 
