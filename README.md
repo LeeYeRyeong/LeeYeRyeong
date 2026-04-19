@@ -57,9 +57,6 @@
 
 ---
 
-  
-<br>
-
   <h3>⚙️ My Tech Stacks ⚙️</h3> 
 
   ![JAVA](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
