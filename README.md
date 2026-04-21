@@ -78,7 +78,7 @@
   <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
-  <br><br>
+---
 
 <h3>🎫 My Language Info 🎫</h3>
 
