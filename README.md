@@ -84,8 +84,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeYeRyeong)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
-<br><br>
   <h3 align="center"><b>📬 My Social 📬</b></h3>
   <a href="mailto:i876838@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> </a>
 
