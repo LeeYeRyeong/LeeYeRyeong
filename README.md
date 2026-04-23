@@ -91,7 +91,7 @@
 
 <a href="mailto:soccer0954@naver.com"><img src="https://img.shields.io/badge/Naver-00FF00?style=for-the-badge&logo=Naver&logoColor=green"> </a>
 
-<br><br>
+---
 
 <h3 align="center"><b> 📔 My Log 📔 </b></h3>
 
