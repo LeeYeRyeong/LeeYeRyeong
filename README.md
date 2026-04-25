@@ -108,7 +108,7 @@
 <p> computer </p>
 <p> toic </p>
 
-<br><br>
+---
 
 
 <h3>🍕 My subjob 🍕</h3> 
