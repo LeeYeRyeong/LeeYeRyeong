@@ -113,6 +113,8 @@
 
 <h3>🍕 My subjob 🍕</h3> 
 
+---
+
 
 <h3 align="center"><b>🐑 My Info 🐑</b></h3>
 
