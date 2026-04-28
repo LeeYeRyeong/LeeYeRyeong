@@ -112,7 +112,7 @@
 
 
 <h3>🍕 My subjob 🍕</h3> 
-<p>personal history : </p>
+<p>personal history : pizza stome</p>
 
 ---
 
