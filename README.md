@@ -112,7 +112,7 @@
 
 
 <h3>🍕 My subjob 🍕</h3> 
-<p>personal history <br> pizza stome</p>
+<p>personal history <br> pizza stome : 2022-</p>
 
 ---
 
