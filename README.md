@@ -114,7 +114,7 @@
 
 
 <h3>🍕 My subjob 🍕</h3> 
-<p>personal history <br> pizza stome : 2022-</p>
+<p>personal history <br> pizza stome : 2022-<br> nomore pizza</p>
 
 ---
 
