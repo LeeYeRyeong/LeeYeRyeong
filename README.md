@@ -108,7 +108,6 @@
 <p> computer </p>
 <p> toic </p>
 <p> tople </p>
-<p> tt </p>
 
 ---
 
