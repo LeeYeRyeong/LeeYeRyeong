@@ -113,7 +113,8 @@
 
 
 <h3>🍕 My subjob 🍕</h3> 
-<p>personal history <br> pizza stome : 2022.12 ~ 2023.06 <br> nomore pizza : 2023.09 ~ 2025.02<br> domino : 2023.03 ~ 2024.01<br>seoreng pizza </p>
+<p>personal history <br> pizza stome : 2022.12 ~ 2023.06 <br> nomore pizza : 2023.09 ~ 2025.02<br> domino : 2025.03 ~ 2026.01<br>seoreng pizza : 20</p>
+
 
 ---
 
