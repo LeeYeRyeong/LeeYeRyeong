@@ -127,6 +127,7 @@
 <p> 📖major📖 : 💻 computer engineering 💻 </p>
 <p> 📖double major📖 : 🤖 AI 🤖 </p>
 <p> 🌏country🌏 : 🇰🇷 KOREA 🇰🇷</p>
+<p> school </p>
 
 <br>
 
