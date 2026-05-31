@@ -99,6 +99,8 @@
 
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fryeong-322.tistory.com?color=yellow&label=hits&size=small)](https://myhits.vercel.app)
 
+<p> ryeong-322.tistory.com </p>
+
 ---
 
 <h3 align="center"><b>📇 My License 📇</b></h3>
