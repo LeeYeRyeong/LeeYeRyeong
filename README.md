@@ -129,7 +129,7 @@
 <p> 📖major📖 : 💻 computer engineering 💻 </p>
 <p> 📖double major📖 : 🤖 AI 🤖 </p>
 <p> 🌏country🌏 : 🇰🇷 KOREA 🇰🇷</p>
-<p> school </p>
+<p> start : 2026.06.01 </p>
 
 <br>
 
