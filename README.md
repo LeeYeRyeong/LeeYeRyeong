@@ -109,7 +109,7 @@
 <p> Engineer Information Processing </p>
 <p> aws cloud </p>
 <p> sqld </p>
-<p> computer engineering </p>
+<p> computer experience</p>
 <p> toic </p>
 <p> tople </p>
 <p> cloud </p>
