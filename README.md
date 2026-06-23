@@ -95,7 +95,7 @@
 
 ---
 
-<h3 align="center"><b> 📔 My Log 📔 </b></h3>
+<h3 align="center"><b>📔 My Log 📔</b></h3>
 
 <p> tistory hits </p>
 
