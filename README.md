@@ -42,7 +42,7 @@
   ![ryxxng's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeYeRyeong&show_icons=true&theme=radical)
 
 
- <h3>💾 my github hits 💾 </h3>
+ <h3>💾 my github hits 💾</h3>
 
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FLeeYeRyeong?color=yellow&label=hits&size=small)](https://myhits.vercel.app)
 
