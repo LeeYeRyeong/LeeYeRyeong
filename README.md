@@ -106,14 +106,7 @@
 ---
 
 <h3 align="center"><b>📇 My License 📇</b></h3>
-<p> Engineer Information Processing </p>
-<p> aws cloud </p>
-<p> sqld </p>
-<p> computer experience</p>
-<p> toic </p>
-<p> tople </p>
-<p> cloud </p>
-<p> drive </p>
+
 
 ---
 
