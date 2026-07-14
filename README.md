@@ -108,8 +108,6 @@
 
 <h3 align="center"><b>📇 My License 📇</b></h3>
 
-<p> computer
-
 ---
 
 
