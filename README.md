@@ -8,7 +8,7 @@
 
  <div align="center">
 
-  <h1><b>  Welcome to <br> 💛 RYXXNG World 🐑</h1> 
+  <h1><b>  Welcome to <br> 💛 RYXXNG World 🐑</b></h1> 
 
 
 <h6><div align="left">|</div> 🤍-🧡-💛-💙-💜 <div align="right">|</div></h6>
