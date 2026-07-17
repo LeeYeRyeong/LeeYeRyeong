@@ -106,7 +106,7 @@
 ---
 
 
-<h3>🍕 My Project 🍕</h3> 
+<h3>🎞 My Project 🎞</h3> 
 
 ---
 
