@@ -50,7 +50,6 @@
 
 <h3 align="center"><b>📜 My BaekJoon 📜</b></h3>
 
-<h3>
 
   [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=soccer0954)](https://solved.ac/soccer0954)
 
