@@ -32,7 +32,7 @@
 
 
 
- <h3 align="center"><b> 👩‍💻 My Git Info 👩‍💻</b></h3>
+ <h3 align="center"><b>👩‍💻 My Git Info 👩‍💻</b></h3>
 
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/{LeeYeRyeong}"/>
