@@ -114,7 +114,6 @@
 
 <h3>🎞 My Project 🎞</h3> 
 
-<p> First </p>
 
 ---
 
