@@ -31,6 +31,8 @@
 <h6> ☆★☆★☆★☆★☆★ </h6>
 
 
+---
+
 
  <h3 align="center"><b>👩‍💻 My Git Info 👩‍💻</b></h3>
 
