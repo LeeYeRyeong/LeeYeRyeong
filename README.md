@@ -142,7 +142,6 @@
 <p> 🌏country🌏 : 🇰🇷 KOREA 🇰🇷</p>
 <p> 👩‍💻job👩‍💻 : programmer </p>
 
-<br>
 
 </div>
 
